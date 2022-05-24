@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="btn_true">TRUE</string>
+    <string name="btn_false">FALSE</string>
+    <string name="prev">PREV</string>
+    <string name="next">NEXT</string>
+    <string name="question_anotimp">Primavara este anotimpul meu preferat</string>
+    <string name="question_materie">Imi place matematica</string>
+    <string name="question_basket">Imi place basket-ul</string>
+    <string name="question_pictat">Imi place sa pictez</string>
+    <string name="question_filme">In timpul liber ma uit la filme</string>
+    <string name="question_citit">In timpul liber citesc</string>
+    <string name="felicitari">Felicitari!</string>
+    <string name="try_again">Try Again</string>
+
+</resources>
